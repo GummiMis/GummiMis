@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GummiMis
-- 👀 I’m interested in HTML desigm and small electronics based on ESP8266
+- 👀 I’m interested in HTML design and small electronics based on ESP8266
 - 🌱 I’m currently learning HTML & CSS design
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
